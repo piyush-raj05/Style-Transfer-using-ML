@@ -6,7 +6,7 @@
 
 ## Working 
 
-We take two images, content/context and a style image. the "style" of style image is learned and appiled on a content image.
+We take two images, content/context, and a style image. the "style" of the style image is learned and applied to a content image.
 
 ![out_1](https://github.com/sirreajohn/VGG19_style_transfer/blob/main/outs/download%20(1).png)
 
