@@ -77,12 +77,4 @@ style_transfer = style_trans(content_image,style_image)
 style_transfer.initialize_model()
 style_transfer.train()
 ```
-
-## Contact
-
-Mahesh Patapalli - mahesh.patapali@gmail.com
-
-[linkedin](https://www.linkedin.com/in/mahesh-patapalli-bba1aa191/) - [github](https://github.com/sirreajohn)
-
-Project Link: [https://github.com/sirreajohn/VGG19_style_transfer](https://github.com/sirreajohn/VGG19_style_transfer)
      
